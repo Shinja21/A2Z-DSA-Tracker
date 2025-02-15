@@ -9,16 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vinayBhoure/A2Z-DSA-Tracker.git"
+    "url": "git+https://github.com/Shinja21/A2Z-DSA-Tracker.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "khushi thapar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vinayBhoure/A2Z-DSA-Tracker/issues"
+    "url": "https://github.com/Shinja21/A2Z-DSA-Tracker/issues"
   },
-  "homepage": "https://github.com/vinayBhoure/A2Z-DSA-Tracker#readme",
+  "homepage": "https://github.com/Shinja21/A2Z-DSA-Tracker#readme",
   "dependencies": {
+    "a2z-dsa-tracker": "file:",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "mongoose": "^8.3.1",
